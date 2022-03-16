@@ -1,3 +1,10 @@
+start with 
+```
+$ npx create-react-app my-class-app
+```
+
+then prun the code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
